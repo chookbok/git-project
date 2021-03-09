@@ -1,2 +1,5 @@
-# git-project
-git 원격 저장소를 복제하는 프로젝트
+# git clone
+## git 원격 저장소를 복제  
+``` git
+git clone 저장소 주소
+```
